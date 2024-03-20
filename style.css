@@ -1,5 +1,7 @@
-header {
-    background-color: #383D58;
-    color: rgb(206, 21, 175)
+.cabecalho   {
+    background-color: #0b2adc;
+    color: rgb(206, 21, 43)
+    display:flex;
+    justify-content: space-around;
     
 }
