@@ -17,4 +17,23 @@ body{
     font-family: "Chakra Petch", sans-serif;
         
       }
-      
+.conteudo-principal{
+      display:frex;
+      flex-direction:column;
+      justify-content: center;
+      align-items: center;
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+}
+.titulo-principal{
+    text-align: left;
+    width: 100%;
+    font-size: 32px;
+}
+.titulo-principal span{
+    color: var(--verde);
+}
+.botao{
+    font-family: "crakra petch", sans-serif;
+}
